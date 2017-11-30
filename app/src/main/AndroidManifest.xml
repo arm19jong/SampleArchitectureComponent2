@@ -22,6 +22,9 @@
 
         </activity>
         <activity android:name=".viewmodel.activity.MainViewModel" >
+
+        </activity>
+        <activity android:name=".room.activity.MainRoom" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
